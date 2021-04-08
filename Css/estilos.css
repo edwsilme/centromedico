@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+#divContenedor {
+	width:1000px;
+	height:643px;
+	margin:0 auto;
+}
+#divEncabezado {
+	
+	left:25px;
+	top:25px;
+	width:981px;
+	height:82px;
+	z-index:2;
+	background-color: #fbec88;
+}
+#divMenu {
+
+	left:27px;
+	top:117px;
+	width:981px;
+	height:43px;
+	z-index:3;
+	/*background:#CCF*/
+}
+#divContenido {
+	
+	left:29px;
+	top:170px;
+	width:981px;
+	height:350px;
+	z-index:4;
+	overflow:auto
+	 
+}
+#divPiePagina {
+	
+	left:29px;
+	top:543px;
+	width:981px;
+	height:86px;
+	z-index:5;
+	background-color: #fbec88;
+}
+
+.texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFF;
+}
+
+
+
